@@ -1,0 +1,6 @@
+V1 = float(input())
+V2 = float(input())
+S = float(input())
+T =float(input())
+Snew = S + ((V2-V1)*T)
+print(Snew)
