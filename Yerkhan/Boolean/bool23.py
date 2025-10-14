@@ -1,0 +1,5 @@
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
+print("Данное число читается одинакова слева направо и справа налево:", a == d and b == c)
